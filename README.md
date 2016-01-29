@@ -13,5 +13,5 @@ Este repositorio contiene las siguientes guías:
 
 ## Anexos
 
-> AnexoI - Numpy y Matplotlib [[dir](./02_Estructuras_de_datos_y_algoritmos_1/Anexos)] [[ipynb](./02_Estructuras_de_datos_y_algoritmos_1/Anexos/Anexo_I.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/eegkno/FI_UNAM/blob/master/02_Estructuras_de_datos_y_algoritmos_1/Anexos/Anexo_I.ipynb)]
+> Anexo I - Numpy y Matplotlib [[dir](./02_Estructuras_de_datos_y_algoritmos_1/Anexos)] [[ipynb](./02_Estructuras_de_datos_y_algoritmos_1/Anexos/Anexo_I.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/eegkno/FI_UNAM/blob/master/02_Estructuras_de_datos_y_algoritmos_1/Anexos/Anexo_I.ipynb)]
 
