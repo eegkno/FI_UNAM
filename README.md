@@ -11,6 +11,7 @@ Este repositorio contiene las siguientes guías:
 > 13 - Recursividad [[dir](./02_Estructuras_de_datos_y_algoritmos_1/P13)] [[ipynb](./02_Estructuras_de_datos_y_algoritmos_1/P13/EDyA13.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/eegkno/FI_UNAM/blob/master/02_Estructuras_de_datos_y_algoritmos_1/P13/EDyA13.ipynb)]
 
 
+## Anexos
 
-
+> AnexoI - Numpy y Matplotlib [[dir](./02_Estructuras_de_datos_y_algoritmos_1/Anexos)] [[ipynb](./02_Estructuras_de_datos_y_algoritmos_1/Anexos/Anexo_I.ipynb)] [[nbviewer](http://nbviewer.jupyter.org/github/eegkno/FI_UNAM/blob/master/02_Estructuras_de_datos_y_algoritmos_1/Anexos/Anexo_I.ipynb)]
 
